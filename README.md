@@ -1,8 +1,9 @@
 # ClamsioWorld
-* About -- Minecraft modification created by clamsioPL and MelonMem
+* About -- Minecraft modification created by clamsioPL, MelonMem and Backerpl
 * Authors -- clamsioPL, MelonMem, Backerpl
 * Minecraft version -- **1.10.2**
 * Current mod version -- **0.6.3-beta**
+* Credits -- MelonMem and Backerpl for the ideas; Backerpl for help with code
 
 # Planned versions
 * 0.6.4-beta
