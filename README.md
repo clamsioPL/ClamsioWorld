@@ -1,6 +1,6 @@
 # ClamsioWorld
 * About -- Minecraft modification created by clamsioPL and MelonMem
-* Authors -- clamsioPL, MelonMem
+* Authors -- clamsioPL, MelonMem, Backerpl
 * Minecraft version -- **1.10.2**
 * Current mod version -- **0.6.3-beta**
 
@@ -23,12 +23,14 @@
 
 ## Blocks
 * **Topaz Block**
+* **Gravel Stairs**
 
 ## Weapons
 * **Power Sword**
 * **Amethyst Sword**
 * **Bronze Sword**
 * **Silver Sword**
+* **Leather Sword**
 
 <!--
 ## Achievements
