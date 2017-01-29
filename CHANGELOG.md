@@ -1,4 +1,8 @@
 # Changelog
+### version 0.6.4-beta
+* update Minecraft Forge to 1.11-13.19.1.2189
+* update Forge Gradle
+
 ### version 0.6.3-beta
 * added **Silver Ingot**, **Silver Ore** and **Silver Block**
 * added **Topaz**
