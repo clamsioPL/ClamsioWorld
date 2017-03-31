@@ -1,0 +1,16 @@
+[
+{
+  "modid": "clamsioworld",
+  "name": "ClamsioWorld",
+  "description": "This mod by clamsioPL add new things to Minecraft",
+  "version": "0.6.5-beta",
+  "mcversion": "1.11",
+  "url": "https://clamsiophp.tumblr.com/projects/clamsioworld",
+  "updateUrl": "",
+  "authorList": ["clamsioPL","MelonMem"],
+  "credits": "MelonMem for the ideas",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,69 @@
+## Polish Language
+
+# Achievements
+#achievement.NAME=NAME
+#achievement.NAME.desc=NAME DESC
+
+# Creative Tabs
+#itemGroup.tabClamsioWorld_Combat=Walka ClamsioWorld
+#itemGroup.tabClamsioWorld_Blocks=Bloki ClamsioWorld
+#itemGroup.tabClamsioWorld_Food=Jedzenie ClamsioWorld
+#itemGroup.tabClamsioWorld_Items=Przedmioty ClamsioWorld
+#itemGroup.tabClamsioWorld_Tools=Narzedzia ClamsioWorld
+
+# Blocks
+#tile.Amethyst_Block.name=Blok ametystu
+#tile.Bronze_Block.name=Blok brÄ…zu
+#tile.Citrine_Quartz_Block.name=Blok cytrynu
+#tile.Copper_Block.name=Blok miedzi
+#tile.Salt_Block.name=Blok soli
+#tile.Sapphire_Block.name=Blok szafiru
+
+# Food
+#item.Apple_Cookie.name=Ciastko z jablkiem
+#item.Baked_Carrot.name=Pieczona marchewka
+#item.Banana.name=Banan
+#item.Corn.name=Kukurydza
+#item.Green_Apple.name=Zielone jablko
+#item.Hamburger.name=Hamburger
+#item.Lettuce.name=Salata
+#item.Pear.name=Gruszka
+#item.Plum.name=Sliwka
+#item.Strawberry.name=Truskawka
+#item.Tomato.name=Pomidor
+
+# Items
+item.amethyst.name=Ametyst
+item.bronze_ingot.name=Sztabka brazu
+item.citrine_quartz.name=Cytryn
+item.copper_ingot.name=Sztabka miedzi
+item.silver_ingot.name=Sztabka srebra
+tem.salt.name=Sol
+item.sapphire.name=Szafir
+item.topaz.name=Topaz
+
+# Ores
+#tile.Amethyst_Ore.name=Ruda ametystu
+#tile.Bronze_Ore.name=Ruda brazu
+#tile.Citrine_Quartz_Ore.name=Ruda cytrynu
+#tile.Copper_Ore.name=Ruda miedzi
+#tile.Salt_Ore.name=Ruda soli
+#tile.Sapphire_Ore.name=Ruda szafiru
+
+# Tools
+#=§5Amethyst §5Axe
+#=§5Amethyst §5Hoe
+#=§5Amethyst §5Shovel
+#=§5Amethyst §5Pickaxe
+#=Bronze Pickaxe
+#=Bronze Axe
+#=Bronze Shovel
+#=Bronze Hoe
+
+# Weapons
+#=Amethyst Sword
+#=Bronze Sword
+#=Power Sword
+
+# Easter Eggs :)
+#=§Easter Eggs No. 1

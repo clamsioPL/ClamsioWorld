@@ -1,0 +1,69 @@
+## English Language
+
+# Achievements
+#achievement.NAME=NAME
+#achievement.NAME.desc=NAME DESC
+
+# Creative Tabs
+#itemGroup.tabClamsioWorld_Combat=ClamsioWorld Combat
+#itemGroup.tabClamsioWorld_Blocks=ClamsioWorld Blocks
+#itemGroup.tabClamsioWorld_Food=ClamsioWorld Food
+#itemGroup.tabClamsioWorld_Items=ClamsioWorld Items
+#itemGroup.tabClamsioWorld_Tools=ClamsioWorld Tools
+
+# Blocks
+#tile.Amethyst_Block.name=Amethyst Block
+#tile.Bronze_Block.name=Bronze Block
+#tile.Citrine_Quartz_Block.name=Citrine Quartz Block
+#tile.Copper_Block.name=Copper Block
+#tile.Salt_Block.name=Salt Block
+#tile.Sapphire_Block.name=Sapphire Block
+
+# Food
+#item.Apple_Cookie.name=Apple Cookie
+#item.Baked_Carrot.name=Baked Carrot
+#item.Banana.name=Banana
+#item.Corn.name=Corn
+#item.Green_Apple.name=Green Apple
+#item.Hamburger.name=Hamburger
+#item.Lettuce.name=Lettuce
+#item.Pear.name=Pear
+#item.Plum.name=Plum
+#item.Strawberry.name=Strawberry
+#item.Tomato.name=Tomato
+
+# Items
+item.amethyst.name=Amethyst
+item.bronze_ingot.name=Bronze Ingot
+item.citrine_quartz.name=Citrine Quartz
+item.copper_ingot.name=Copper Ingot
+item.silver_ingot.name=Silver Ingot
+item.salt.name=Salt
+item.sapphire.name=Sapphire
+item.topaz.name=Topaz
+
+# Ores
+#tile.Amethyst_Ore.name=Amethyst Ore
+#tile.Bronze_Ore.name=Bronze Ore
+#tile.Citrine_Quartz_Ore.name=Citrine Quartz Ore
+#tile.Copper_Ore.name=Copper Ore
+#tile.Salt_Ore.name=Salt Ore
+#tile.Sapphire_Ore.name=Sapphire Ore
+
+# Tools
+#=§5Amethyst §5Axe
+#=§5Amethyst §5Hoe
+#=§5Amethyst §5Shovel
+#=§5Amethyst §5Pickaxe
+#=Bronze Pickaxe
+#=Bronze Axe
+#=Bronze Shovel
+#=Bronze Hoe
+
+# Weapons
+#=Amethyst Sword
+#=Bronze Sword
+#=Power Sword
+
+# Easter Eggs :)
+#=§Easter Eggs No. 1
