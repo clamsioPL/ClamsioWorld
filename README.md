@@ -3,11 +3,10 @@
 * Authors -- clamsioPL, MelonMem
 * Minecraft version -- **1.10.2**
 * Working on (Minecraft version) -- **1.11**
-* Current mod version -- **0.6.4-beta**
+* Current mod version -- **0.6.5-beta**
 * Credits -- MelonMem for the ideas
 
 # Planned versions
-* 0.6.5-beta
 * 0.6.6-beta
 * 0.7.1-beta
 * Official_Beta_0.8
@@ -39,10 +38,6 @@
 
 <!--
 ## Structures
--->
-
-<!--
-## Biomes
 -->
 
 # Changelog
