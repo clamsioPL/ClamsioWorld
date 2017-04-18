@@ -46,7 +46,10 @@
 -->
 
 # Changelog
-See [CHANGELOG.md] (CHANGELOG.md)
+See [CHANGELOG.md](CHANGELOG.md)
+
+# Contributing
+See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 # Licensing
 Copyright &copy;2016 clamsioPL and MelonMem
